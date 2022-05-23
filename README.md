@@ -1,7 +1,7 @@
 ## four_dof_manipulator
 #### Simulation of 4 DoF Manipulator
 
-![four_dof_manipulator](https://github.com/Kucukcollu/four_dof_manipulator/blob/master/adds/solidworks.png)
+![four_dof_manipulator](https://github.com/uguralagas/four_dof_manipulator_updated/blob/main/adds/solidworks.png)
 
 #### Project Information
 ##### OS: Ubuntu 18.04
@@ -10,9 +10,9 @@
 
 #### How it works in your machine?
 ##### `$cd catkin_ws/src`
-##### `$git clone https://github.com/Kucukcollu/four_dof_manipulator.git`
+##### `$git clone https://github.com/uguralagas/four_dof_manipulator_updated.git`
 ##### for MoveIt package
-##### `https://github.com/Kucukcollu/manipulator_motion_planning`
+##### `https://github.com/uguralagas/manipulator_motion_planning`
 ##### `$cd catkin_ws/`
 ##### `$catkin_make`<br></br>
 
@@ -20,12 +20,12 @@
 #### Simulation in RViz
 ##### `$roslaunch four_dof_manipulator display.launch`<br></br>
 
-![](https://github.com/Kucukcollu/four_dof_manipulator/blob/master/adds/rviz.PNG)<br></br>
+![](https://github.com/uguralagas/four_dof_manipulator_updated/blob/main/adds/rviz.PNG)<br></br>
 
 #### Simulation in Gazebo
 ##### `$roslaunch four_dof_manipulator gazebo.launch`
 
-![](https://github.com/Kucukcollu/four_dof_manipulator/blob/master/adds/gazebo.PNG)<br></br>
+![](https://github.com/uguralagas/four_dof_manipulator_updated/blob/main/adds/gazebo.PNG)<br></br>
 
 #### Mainly there are three way to simulate manipulator
 ##### 1- Publish command from terminal
@@ -41,7 +41,7 @@
 ##### 2- Run MoveIt and Gazebo together
 ##### `$roslaunch four_dof_manipulator all.launch`
 
-![](https://github.com/Kucukcollu/four_dof_manipulator/blob/master/adds/rvizANDgazebo.PNG)
+![](https://github.com/uguralagas/four_dof_manipulator_updated/blob/main/adds/rvizANDgazebo.PNG)
 
 
 ##### 3- Run via Script
@@ -53,7 +53,7 @@
 
 #### Final Simulation
 
-![](https://github.com/Kucukcollu/four_dof_manipulator/blob/master/adds/simülasyon.gif)<br></br>
+![](https://github.com/uguralagas/four_dof_manipulator_updated/blob/main/adds/simülasyon.gif)<br></br>
 
 ##### Project Members:
 ###### [Ali Aydın Küçükçöllü](mailto:kucukcollu@outlook.com)
